@@ -20,17 +20,17 @@ In this project, I looked at three different measures of alcohol abuse: prevalen
 
 * **Frequency**: This refers to the average number of ‘binge drinking’ occasions among those who binge drink, in the past 30 days.
 
-  #### How are Mental and Physical Health Measured?
+#### How are Mental and Physical Health Measured?
 
 In this project, I looked at three different measures of alcohol abuse: prevalence, intensity, and frequency.
 
-* Deppressive Disorder (addepev2) : Survey participants are asked the following question: "(Ever told) you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?" If they answer "No," a value of 0 is assigned. If they answer "Yes," a value of 1 is assigned.
+* **Deppressive Disorder (addepev2)** : Survey participants are asked the following question: "(Ever told) you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?" If they answer "No," a value of 0 is assigned. If they answer "Yes," a value of 1 is assigned.
 
-* Poor Mental Health Days (menthlth) : Survey participants are asked the following question: "Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?”
+* **Poor Mental Health Days (menthlth)** : Survey participants are asked the following question: "Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?”
 
-* Poor Physical Health Days (physhlth) : Survey participants are asked the following question: “Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?”
+* **Poor Physical Health Days (physhlth)** : Survey participants are asked the following question: “Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?”
 
-* Poor General Health (genhlth) : Survey participants are asked the following question: “Would you say that in general your health is: 1 - Excellent, 2 - Very Good, 3 - Good, 4 - Fair, 5 - Poor, 7 - Don’t Know/Not Sure?”
+* **Poor General Health (genhlth)** : Survey participants are asked the following question: “Would you say that in general your health is: 1 - Excellent, 2 - Very Good, 3 - Good, 4 - Fair, 5 - Poor, 7 - Don’t Know/Not Sure?”
 
 
 ## Questions to be Answered
@@ -42,4 +42,36 @@ In this project, I looked at three different measures of alcohol abuse: prevalen
 * **Where in the United States is Binge Drinking the Most Frequent?** : In which states/regions do binge drinkers have the most frequent 'binge drinking occasions?'
 
 * **Do Mental and Physical Health Influence the Likelihood of Someone Engaging in Binge Drinking?** : Are people suffering from poor mental or physical health more or less likely to engage in binge drinking?
+
+## Findings
+
+### Binge Drinking Prevalence
+
+<p align="center">
+  <img width="600" height="400" src="Prevalence_Map.png">
+</p>
+
+As the plot above shows, the overwhelming majority of binge drinkers are located in the Midwest. All of the top 4 states (Wisconsin, Iowa, Minnesota, and Illinois, are all located in the Midwest region of the United States.
+
+
+### Binge Drinking Intensity
+
+<p align="center">
+  <img width="600" height="400" src="Intensity_Map.png">
+</p>
+
+Binge drinking intensity was more scattered than prevalence, but binge drinking intensity appears to be the highest in the Appalachian region of the United States. The mean for the maximum number of drinks consumed in a single occassion (among binge drinkers) was highest in West Virginia, followed by Kentucky, Arkansas, and Texas.
+
+### Binge Drinking Frequency
+
+<p align="center">
+  <img width="600" height="400" src="Frequency_Map.png">
+</p>
+
+As shown in the map above, those who binge drink the most frequently are located in the Southeast region of the United States. The mean number of binge drinking occasions (among those who binge drink) was highest in Florida, followed by Mississippi, Arkansas, and West Virginia.
+
+
+
+
+
 
