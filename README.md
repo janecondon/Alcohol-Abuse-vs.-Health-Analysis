@@ -115,7 +115,11 @@ General Health Rating:
 
 Based on this plot: 
 * People who rated their general health as 3-5 were less likely to engage in binge drinking than those who rated their general health as 1 or 2.
+
+
   
+### Logistic Regression to Predict the Likelihood of a Person Engaging in Binge Drinking Based on Mental and Physical Health
+
 
 
 
