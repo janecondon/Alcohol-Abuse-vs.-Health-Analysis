@@ -43,7 +43,7 @@ In this project, I looked at three different measures of alcohol abuse: prevalen
 
 * **Do Mental and Physical Health Influence the Likelihood of Someone Engaging in Binge Drinking?** : Are people suffering from poor mental or physical health more or less likely to engage in binge drinking?
 
-## Findings
+## Data Visualization
 
 ### Binge Drinking Prevalence
 
@@ -69,6 +69,54 @@ Binge drinking intensity was more scattered than prevalence, but binge drinking 
 </p>
 
 As shown in the map above, those who binge drink the most frequently are located in the Southeast region of the United States. The mean number of binge drinking occasions (among those who binge drink) was highest in Florida, followed by Mississippi, Arkansas, and West Virginia.
+
+### Binge Drinking vs. Deppressive Disorder
+
+<p align="center">
+  <img width="600" height="400" src="Plots\Binge_Drinker_vs_Deppressive_Disorder.png">
+</p>
+
+Based on this plot: 
+
+* Those diagnosed with a depressive disorder (depression, dysthymia, etc.) are only slightly more likely to engage in binge drinking (
+  * 13% of people not diagnosed with a deppressive disorder engage in binge drinking.
+  * 14% of people diagnosed with a deppressive disorder engage in binge drinking. 
+
+However, this data does have some limitations as it only addresses those who have been diagnosed with a deppressive disorder; not being diagnosed with a depressive disorder does not necessarily indicate that a person does not have a depressive disorder.
+
+### Binge Drinking vs. Mental and Physical Health
+
+<p align="center">
+  <img width="600" height="400" src="Plots\Binge_Drinking_vs_Health.png">
+</p>
+
+Based on this plot: 
+
+* People suffering from poor mental health are more likely to engage in binge drinking:
+  * Non-Binge Drinker Average # of poor mental health days per month: 3.53
+  * Binge Drinker Average # of poor mental health days per month: 4.5
+*  People suffering from poor physical health are actually less likely to engage in binge drinking.
+  * Non-Binge Drinker Average # of poor physical health days per month: 4.58
+  * Binge Drinker Average # of poor physical health days per month: 3.16
+
+
+### Binge Drinking vs. General Health
+
+<p align="center">
+  <img width="600" height="400" src="Plots\Binge_Drinking_vs_General_Health.png">
+</p>
+
+General Health Rating: 
+* 1 = Excellent
+* 2 = Very Good
+* 3 = Good
+* 4 = Fair
+* 5 = Poor
+
+Based on this plot: 
+* People who rated their general health as 3-5 were less likely to engage in binge drinking than those who rated their general health as 1 or 2.
+  
+
 
 
 
