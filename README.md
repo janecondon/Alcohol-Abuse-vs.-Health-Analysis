@@ -22,8 +22,6 @@ In this project, I looked at three different measures of alcohol abuse: prevalen
 
 #### How are Mental and Physical Health Measured?
 
-In this project, I looked at three different measures of alcohol abuse: prevalence, intensity, and frequency.
-
 * **Deppressive Disorder (addepev2)** : Survey participants are asked the following question: "(Ever told) you have a depressive disorder (including depression, major depression, dysthymia, or minor depression)?" If they answer "No," a value of 0 is assigned. If they answer "Yes," a value of 1 is assigned.
 
 * **Poor Mental Health Days (menthlth)** : Survey participants are asked the following question: "Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?”
