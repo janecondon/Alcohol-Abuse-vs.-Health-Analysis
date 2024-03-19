@@ -48,7 +48,7 @@ In this project, I looked at three different measures of alcohol abuse: prevalen
 ### Binge Drinking Prevalence
 
 <p align="center">
-  <img width="600" height="400" src="Prevalence_Map.png">
+  <img width="600" height="400" src="Plots\Prevalence_Map.png">
 </p>
 
 As the plot above shows, the overwhelming majority of binge drinkers are located in the Midwest. All of the top 4 states (Wisconsin, Iowa, Minnesota, and Illinois, are all located in the Midwest region of the United States.
@@ -57,7 +57,7 @@ As the plot above shows, the overwhelming majority of binge drinkers are located
 ### Binge Drinking Intensity
 
 <p align="center">
-  <img width="600" height="400" src="Intensity_Map.png">
+  <img width="600" height="400" src="Plots\Intensity_Map.png">
 </p>
 
 Binge drinking intensity was more scattered than prevalence, but binge drinking intensity appears to be the highest in the Appalachian region of the United States. The mean for the maximum number of drinks consumed in a single occassion (among binge drinkers) was highest in West Virginia, followed by Kentucky, Arkansas, and Texas.
@@ -65,7 +65,7 @@ Binge drinking intensity was more scattered than prevalence, but binge drinking 
 ### Binge Drinking Frequency
 
 <p align="center">
-  <img width="600" height="400" src="Frequency_Map.png">
+  <img width="600" height="400" src="Plots\Frequency_Map.png">
 </p>
 
 As shown in the map above, those who binge drink the most frequently are located in the Southeast region of the United States. The mean number of binge drinking occasions (among those who binge drink) was highest in Florida, followed by Mississippi, Arkansas, and West Virginia.
