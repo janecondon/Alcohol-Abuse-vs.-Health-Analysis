@@ -71,7 +71,7 @@ As shown in the map above, those who binge drink the most frequently are located
 
 Based on this plot: 
 
-* Those diagnosed with a depressive disorder (depression, dysthymia, etc.) are only slightly more likely to engage in binge drinking (
+* Those diagnosed with a depressive disorder (depression, dysthymia, etc.) are only slightly more likely to engage in binge drinking.
   * 13% of people not diagnosed with a deppressive disorder engage in binge drinking.
   * 14% of people diagnosed with a deppressive disorder engage in binge drinking. 
 
