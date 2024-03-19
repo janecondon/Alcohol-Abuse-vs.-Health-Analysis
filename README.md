@@ -95,9 +95,10 @@ Based on this plot:
 * People suffering from poor mental health are more likely to engage in binge drinking:
   * Non-Binge Drinker Average # of poor mental health days per month: 3.53
   * Binge Drinker Average # of poor mental health days per month: 4.5
+  
 *  People suffering from poor physical health are actually less likely to engage in binge drinking.
-  * Non-Binge Drinker Average # of poor physical health days per month: 4.58
-  * Binge Drinker Average # of poor physical health days per month: 3.16
+   * Non-Binge Drinker Average # of poor physical health days per month: 4.58
+   * Binge Drinker Average # of poor physical health days per month: 3.16
 
 
 ### Binge Drinking vs. General Health
@@ -119,6 +120,24 @@ Based on this plot:
 
   
 ### Logistic Regression to Predict the Likelihood of a Person Engaging in Binge Drinking Based on Mental and Physical Health
+
+<img width="600" height="400" src="Plots\Log_Reg_Tbl.png">
+
+
+Based on this model: 
+
+* Being diagnosed with a depressive disorder does not have a large impact on whether or not a person is a binge drinker.
+* Mental Health has the strongest impact on the likelihood of a person being a binge drinker. Those with a greater number of days where their mental health was poor are more likely to engage in binge drinking.
+* Physical Health also has a significant impact on the likelihood of a person being a binge drinker. Those with a greater number of days where their physical health was poor are less likely to engage in binge drinking.
+* General Health has a significant impact on the likelihood of a person being a binge drinker. Those who rated their health as ‘poor’ are less likely to engage in binge drinking.
+
+
+## Final Thoughts
+
+* Alcohol abuse is widespread across the entirety of the United States, with some hotspots being located in the Midwest and the Appalachian/Southern regions.
+* The likelihood of someone engaging in binge drinking is significantly influenced by their mental and physical well-being. 
+
+
 
 
 
